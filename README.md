@@ -1,0 +1,2 @@
+# TrivalentComputations
+Computations with TriCats
